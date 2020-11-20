@@ -86,13 +86,40 @@ padding: 100px;
 }
 
 .text{
-  display: inline-block;
+background-color: white;
+
 }
 
-#steps{
-  height: 500px;
-  background-color: red;
+#jumbotron{
+  background-image: url('../img/index-banner.1f6fd0a.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+  position: relative;
 
+}
+
+#mobility{
+  background-image: url('../img/scooter.f0a0397.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+  position: relative;
+  margin-top: 50px;
+  padding: 50px;
+  text-align: center;
+  color:white;
+  line-height: 46px;
+
+
+
+}
+
+.smart{
+  font-size: 40px;
+text-transform:full-width;
+text-align: center;
+color:white;
 
 }
 
