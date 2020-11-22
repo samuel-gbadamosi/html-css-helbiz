@@ -171,6 +171,46 @@ background-color: #3E5266;
 
 }
 
+#family{
+  /* background-color: red; */
+  height: 500px;
+}
+
+.pic-people{
+  background-image: url('../img/5b81f528-f91c-44a6-bbcf-d59e6752327b.JPG');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+  /* position: relative; */
+
+
+}
+
+.mid-text{
+  background-color: white;
+  height: 150px;
+  margin-top: 147px;
+  text-align: center;
+
+
+}
+
+.h{
+  font-size: 35px;
+  height: 20px;
+}
+
+.roll{
+  padding-top: 40px;
+  padding-left: 7px;
+  font-size: 40px;
+}
+
+#family .row .row ul li {
+  display: inline-block;
+
+}
+
 
 
 
@@ -218,9 +258,6 @@ background-color: #3E5266;
         width:321px;
         margin-left: 92px;
 
-
-
       }
-
 
     }
