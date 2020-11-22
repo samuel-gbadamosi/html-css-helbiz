@@ -123,6 +123,57 @@ color:white;
 
 }
 
+#app {
+  height: 800px;
+  /* background-color: yellow; */
+  /* border: 2px solid black; */
+
+}
+
+.bord{
+border: 2px solid lightgrey;
+background-color: #3E5266;
+}
+
+.map{
+  height: 585px;
+  padding-top: 83px;
+  margin-left: 31px;
+  margin-bottom: -5px;
+}
+
+#app .row ul {
+  color:white;
+  font-size: 20px;
+  text-align: center;
+  line-height: 40px;
+  font-weight: bold;
+  padding-top: 30px;
+}
+
+
+.white-house{
+  background-image: url('../img/city.7c8c928.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 746px;
+  position: relative;
+
+
+
+}
+.cities{
+  padding-top: 2px;
+    color: white;
+    font-size: 51px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+
+
+
 
 
 
