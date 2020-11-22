@@ -182,4 +182,45 @@ background-color: #3E5266;
   .jumbo h1 {
     font-size: 26px;
   }
-}
+
+  #prodotti {
+
+      text-align: center;
+      line-height: 56px;
+    padding: 100px;
+    margin-left: 100px;
+    }
+
+    .scooter{
+      height: 200px;
+    }
+    /* finished first part */
+
+    #app {
+      height: 500px;
+      /* background-color: yellow; */
+      /* border: 2px solid black; */
+
+    }
+      .map{
+        height: 400px;
+        width:200px;
+        padding-top: 83px;
+        margin-left: 31px;
+        margin-bottom: -5px;
+      }
+
+      .white-house{
+        background-image: url('../img/city.7c8c928.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 594px;
+        width:321px;
+        margin-left: 92px;
+
+
+
+      }
+
+
+    }
